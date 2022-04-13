@@ -1,7 +1,3 @@
-* check cookies to see if mark user
-* if mark user, give user password
-* setuid binary
-
 > mark:m4rks3cur3
 > vagrant:longpasswordyoushouldntgetthisatall
 > ubuntu:anotheroneyoushouldneverbeabletoguess
