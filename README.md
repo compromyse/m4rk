@@ -1,6 +1,7 @@
 > mark:m4rks3cur3
 > vagrant:longpasswordyoushouldntgetthisatall
 > ubuntu:anotheroneyoushouldneverbeabletoguess
+> debug:debug
 
 > Flags
 * user

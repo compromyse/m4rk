@@ -17,6 +17,7 @@ sudo cp /vagrant_data/admin.html /var/www/html
 
 # Create users and change passwords
 sudo adduser mark
+sudo adduser debug
 sudo passwd vagrant
 sudo passwd ubuntu
 
